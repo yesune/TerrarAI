@@ -1,0 +1,2 @@
+# TerrarAI
+AI conquers Terraria
